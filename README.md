@@ -34,7 +34,7 @@ Mijn plan is om de verschillende Mickey’s door de jaren heen te laten zien. Ik
   
 Ik wil dus Mickey op chronologische volgorde laten zien en daarom leek het mij een goed begin om Steamboat Willie als eerst te laten zien en dat iconische beeld als achtergrond te gebruiken.
   
-Het idee is om alle Mickey’s op het stuurwiel af te beelden en het wiel te laten draaien. De Mickey die wordt aangewezen als het wiel is gedraaid wordt, vervangen door de Mickey die al staat afgebeeld. Ook veranderd de bijpassende informatie wat bij elke Mickey hoort. 
+Het idee is om alle Mickey’s op het stuurwiel af te beelden en het wiel te laten draaien. De Mickey die wordt aangewezen als het wiel is gedraaid, wordt vervangen door de Mickey die al staat afgebeeld. Ook veranderd de bijpassende informatie wat bij elke Mickey hoort. 
 
 Dit idee is voor mij een uitdaging. Ik weet namelijk niet zo goed hoe ik dit moet gaan maken. Ik weet wel dat ik javascript nodig heb voor dit idee, maar daar moet ik mij dan eerst weer in gaan verdiepen.
 
@@ -57,14 +57,14 @@ Dit idee is voor mij een uitdaging. Ik weet namelijk niet zo goed hoe ik dit moe
 ## Voortgang/Feedback 1
 
 <details>
-  <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
+  <summary>Mijn bevindingen + wijzigingen </summary>
 
+   <img src="readme-images/SchetsMickey.1.jpeg" width="375px" alt="eerste versie/schets">
   ### Bevinding 1:
-  Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
-
+Het stuurwiel zie je nu via een zijaanzicht. Daardoor zie je de Mickey’s niet goed.
+  
   #### oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
-
+Ik wil dit gaan oplossen door het stuurwiel van voor te laten afbeelden.
 
 
   ### Bevinding 2:
