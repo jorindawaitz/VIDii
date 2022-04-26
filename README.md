@@ -154,7 +154,7 @@ Ik heb met Javascript ervoor gezorgd dat je met spatie en enter het stuurwiel ka
   
  
   #### Bevinding 9:
-  10.	CSS custom properties toevoegen.
+ CSS custom properties toevoegen.
   
   
 
@@ -165,26 +165,40 @@ Ik heb met Javascript ervoor gezorgd dat je met spatie en enter het stuurwiel ka
 ## Voortgang/Feedback 3 (concept+code)
 
 <details>
-  <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
+  <summary>Mijn bevindingen + wijzigingen</summary>
   
   ### Bevinding 1:
-  Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
+Het informatievlak ziet er een beetje saai uit.
 
   #### oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
+Ik heb een box-shadow toegevoegd.
 
 
 
   ### Bevinding 2:
-  Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
-
+Mickey zou ook moeten bewegen.
+  
   #### oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
+Ik heb Mickey nu laten springen als hij getoond wordt.
 
-
-
+  
   ### Bevinding 3:
-  ...
+ Je kan heel vaak op het wiel klikken, waardoor alles een beetje vast loopt en alle Mickey’s heel snel achter elkaar getoond worden.
+  
+  #### oplossing:
+True/false functie toegevoegd als mickey klaar is met draaien. Als de wiel niet klaar is met draaien, stopt de functie met verdergaan. Als je dus bijvoorbeeld 3x op het wiel klikt, krijg je nog maar 1 Mickey te zien. Als je wel klaar bent met draaien en op het wiel drukt, dan ga je beginnen met draaien en roep je de functie toonMickey op.
+  
+  ### Bevinding 4:
+ Het zou mooier zijn als het stuurwiel een beetje gedraaid staat, goed in perspectief.
+  
+  #### oplossing:
+  Ik wist niet hoe ik dit kon oplossen. Ik heb geprobeerd om transform: rotatey (50deg) toe te voegen aan de afbeelding, maar dat zag er lelijk uit. De afbeelding zou niet even groot moeten zijn, maar een deel zou "dunner" moeten zijn zodat je diepte creéert. 
+  
+  ### Bevinding 5:
+  Disney font gebruiken.
+  
+  #### oplossing:
+  Disney font gedownload en @font-face aangemaakt.
 
 </details>
 
@@ -197,7 +211,7 @@ Ik heb met Javascript ervoor gezorgd dat je met spatie en enter het stuurwiel ka
   <summary>Mijn eindresultaat & persoonlijke ontwikkeling</summary>
 
   ### Je uitkomst - karakteristiek screenshot(s):
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="final ontwerp">
+  <img src="readme-images/Website.DEF.png" width="375px" alt="final ontwerp">
 
 
   ### Dit ging goed/Heb ik geleerd: 
