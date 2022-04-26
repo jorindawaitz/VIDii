@@ -2,14 +2,38 @@
 console.log("Howdy!");
 
 
-var stuurWiel = document.querySelector("button img"); // document.querySelector("main > img");
+var stuurWiel = document.querySelector("button img"); 
 var mickeyTekst= document.querySelector("section p");
 var mickeyTitel = document.querySelector("section h3");
 
-stuurWiel.addEventListener("click", draaienMaar);
+var klaarMetDraaien = true;
 
-function draaienMaar() {
+stuurWiel.addEventListener("click", startDraaien);
+
+document.body.onkeyup = function(e) {
+    if (e.code == "Tab" ||
+        e.code == "Space" ||
+        e.code == "Enter" 
+    ) {
+      startDraaien();
+    }
+  }
+//   https://stackoverflow.com/questions/24386354/execute-js-code-after-pressing-the-spacebar
+
+// Als wiel niet klaar is met draaien, stopt de functie met verdergaan. 
+// Als je dus bijvoorbeeld 3x op het wiel klikt, krijg je nog steeds maar 1 mickey te zien.
+// Als je wel klaar bent met draaien en op het wiel drukt dan ga je beginnen met draaien en
+// roep je de functie toonmMickey op.
+function startDraaien() {
+
+    if (!klaarMetDraaien)
+        return;
+
+    klaarMetDraaien = false;
+
     stuurWiel.classList.add("draaien");
+    toonMickey();
+
     // console.log(mickeyNummer);
 }
 
@@ -22,10 +46,14 @@ var mickeyTekstCollectie = ["Mickey's first appearance in the short 'plane crazy
 "Due to his rising popularity, he became a daily children's tv persona in 'mickey mouse club'. A live -action Disney show that ran from 1955 to 1996. The most noticeable feature of this design are the eyebrows.",
 "In fact. It was first shown in 1939 animated short 'the pointer'. But is most famous for appearing in the character's first full-length film 'fantasia' in 1940. It was temporary replaced by the two previous designs but returned in 'mickey's Christmas carol', 1983.",
 "Since June 28, 2013, Disney channel has been airing new 3-minute mickey mouse short's. The newest design combines elements of mickey's 30's look with a contemporary twist."];
-var mickeyTitelCollectie = ["Mickey 1928", "Mickey 1928 (late)", "Mickey 1935", "Mickey 1941", "Mickey 1953", "Mickey 1939-1940 & 1983-2012", "Mickey 2013"];
+var mickeyTitelCollectie = ["MICKEY 1928 - (1/7)", "MICKEY 1928 - (2/7)", "MICKEY 1935 - (3/7)", "MICKEY 1941 - (4/7)", "MICKEY 1953 - (5/7)", "MICKEY 1983 - (6/7)", "MICKEY 2013 - (7/7)"];
 
 var mickeyNummer = 0;
 
+// Zodra deze functie wordt opgeroepen beginnen we een timeout. Nadat die timeout klaar wordt de volgende
+// Mickey uit de collectie opgeroepen en vervangt de oude Mickey. Het zelfde geldt voor de titel en tekst.
+// Ik laat ook nog Mickey beginnen met springen en start een timeout. Nadat die timeout klaar is wordt de variable
+// klaarMetDraaien op true gezet.
 function toonMickey() {
 
 setTimeout(function() {
@@ -35,10 +63,16 @@ setTimeout(function() {
         mickey.src="./images/" + mickeyCollectie[mickeyNummer];
         mickeyTekst.textContent = mickeyTekstCollectie[mickeyNummer];
         mickeyTitel.textContent = mickeyTitelCollectie[mickeyNummer];
+
+        mickey.classList.add("springen");
+
+        setTimeout(function() {
+            mickey.classList.remove("springen");
+    
+            klaarMetDraaien = true;
+        }, 750);
     }, 2000);
 }
-
-stuurWiel.addEventListener("click", toonMickey);
 
 // var mickey_nummer = 1;
 // function toonVolgendeMickey() {
