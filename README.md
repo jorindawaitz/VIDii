@@ -26,9 +26,9 @@ In 2018/2019 heb ik een jaar de opleiding CMD gevolgd. Ik heb toen html, css en 
   <summary>De eerste versie/schets van je ontwerp & je persoonlijke uitdaging</summary>
 
   ### De eerste versie/schets:
-  <img src="readme-images/SchetsMickey.1.jpeg" width="375px" alt="eerste versie/schets">
-  <img src="readme-images/SchetsStuurMickey.1.jpeg" width="375px" alt="eerste versie/schets">
-  <img src="readme-images/SteamboatWillie.jpg" width="375px" alt="eerste versie/schets">
+  <img src="readme-images/SchetsMickey.1.jpeg" width="600px" alt="eerste versie/schets">
+  <img src="readme-images/SchetsStuurMickey.1.jpeg" width="290px" alt="eerste versie/schets">
+  <img src="readme-images/SteamboatWillie.jpg" width="895px" alt="eerste versie/schets">
   
 Mijn plan is om de verschillende Mickey’s door de jaren heen te laten zien. Ik ging eerst wat deskresearch doen over de verschillende Mickey’s en kwam bij Steamboat Willie uit. Die Mickey staat bekend als de eerste Mickey en de dag dat de Steamboat Willie gelanceerd werd, wordt gezien als de verjaardag van Mickey.
   
@@ -59,7 +59,7 @@ Dit idee is voor mij een uitdaging. Ik weet namelijk niet zo goed hoe ik dit moe
 <details>
   <summary>Mijn bevindingen + wijzigingen </summary>
 
-   <img src="readme-images/SchetsMickey.1.jpeg" width="375px" alt="eerste versie/schets">
+   <img src="readme-images/SchetsMickey.1.jpeg" width="600px" alt="eerste versie/schets">
   
   ### Bevinding 1: 
   Het stuurwiel zie je nu via een zijaanzicht. Daardoor zie je de Mickey’s niet goed.
@@ -97,7 +97,7 @@ Ik heb Steamboat Willie gekeken om inspiratie op te doen. Ik zag daar een schatk
 <details>
   <summary>Mijn bevindingen + wijzigingen</summary>
   
-  <img src="readme-images/Website.v2.png" width="375px" alt="Tweede versie/schets">
+  <img src="readme-images/Website.v2.png" width="600px" alt="Tweede versie/schets">
   
   ### Bevinding 1:
 De teksten hebben niet voldoende contrast.
@@ -155,7 +155,7 @@ Ik heb met Javascript ervoor gezorgd dat je met spatie en enter het stuurwiel ka
   Ik heb alle ID’s vervangen.
   
  
-  #### Bevinding 9:
+  ### Bevinding 9:
  CSS custom properties toevoegen.
   
   
@@ -169,7 +169,7 @@ Ik heb met Javascript ervoor gezorgd dat je met spatie en enter het stuurwiel ka
 <details>
   <summary>Mijn bevindingen + wijzigingen</summary>
   
-<img src="readme-images/Website.v2.png" width="375px" alt="Tweede versie/schets">
+<img src="readme-images/Website.v2.png" width="600px" alt="Tweede versie/schets">
   
   ### Bevinding 1:
 Het informatievlak ziet er een beetje saai uit.
@@ -216,12 +216,12 @@ True/false functie toegevoegd als mickey klaar is met draaien. Als de wiel niet 
 
   ### Je uitkomst - karakteristiek screenshot(s):
   <img src="readme-images/Website.DEF.png" width="1000px" alt="final ontwerp">
-  <img src="readme-images/Website.DEF.2.png" width="1000px" alt="final ontwerp">
-  <img src="readme-images/Website.DEF.3.png" width="1000px" alt="final ontwerp">
-  <img src="readme-images/Website.DEF.4.png" width="1000px" alt="final ontwerp">
-  <img src="readme-images/Website.DEF.5.png" width="1000px" alt="final ontwerp">
-  <img src="readme-images/Website.DEF.6.png" width="1000px" alt="final ontwerp">
-  <img src="readme-images/Website.DEF.7.png" width="1000px" alt="final ontwerp">
+  <img src="readme-images/Website.DEF.2.png" width="330px" alt="final ontwerp">
+  <img src="readme-images/Website.DEF.3.png" width="330px" alt="final ontwerp">
+  <img src="readme-images/Website.DEF.4.png" width="330px" alt="final ontwerp">
+  <img src="readme-images/Website.DEF.5.png" width="330px" alt="final ontwerp">
+  <img src="readme-images/Website.DEF.6.png" width="330px" alt="final ontwerp">
+  <img src="readme-images/Website.DEF.7.png" width="330px" alt="final ontwerp">
   
 Ik ben erg blij met het eindresultaat. Het komt aardig in de buurt van mijn oorspronkelijke idee, wat ik eerlijk gezegd niet had verwacht. 
 
