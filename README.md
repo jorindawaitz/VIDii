@@ -13,13 +13,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Jij
 
 ### Ontwerper:
-Sanne 't Hooft (vervangen door jouw naam)
+Jorinda Waitz
 
 #### Je startniveau:
-Mijn startniveau is: hier je startniveau (kies uit zwart, rood óf blauw)
-
-
-
+Mijn startniveau is: blauw
+In 2018/2019 heb ik een jaar de opleiding CMD gevolgd. Ik heb toen html, css en javascript geleerd, maar ik had daar heel veel moeite mee. Ook is alles na drie jaar een beetje weggezakt, dus ik moet mijn geheugen weer opfrissen. 
 
 
 # Je plan
