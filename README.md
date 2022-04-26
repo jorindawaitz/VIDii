@@ -60,11 +60,10 @@ Dit idee is voor mij een uitdaging. Ik weet namelijk niet zo goed hoe ik dit moe
   <summary>Mijn bevindingen + wijzigingen </summary>
 
    <img src="readme-images/SchetsMickey.1.jpeg" width="375px" alt="eerste versie/schets">
-  ### Bevinding 1:
-Het stuurwiel zie je nu via een zijaanzicht. Daardoor zie je de Mickey’s niet goed.
   
-  #### oplossing:
-Ik wil dit gaan oplossen door het stuurwiel van voor te laten afbeelden.
+  ### Bevinding 1: Het stuurwiel zie je nu via een zijaanzicht. Daardoor zie je de Mickey’s niet goed.
+  
+  #### oplossing: Ik wil dit gaan oplossen door het stuurwiel van voor te laten afbeelden.
 
 
   ### Bevinding 2:
