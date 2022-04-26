@@ -119,7 +119,7 @@ Ik heb met Javascript ervoor gezorgd dat je met spatie en enter het stuurwiel ka
   
   
   ### Bevinding 4:
-  De headings kunnen beter gebruikt worden. “Click to spin the wheel” is nu een <p>, maar kan beter een <h2>
+  De headings kunnen beter gebruikt worden. “Click to spin the wheel” is nu een < p >, maar kan beter een < h2 >
   
   #### oplossing:
   Ik heb alle “titels” veranderd naar h1/2/3 en alleen de tekst een <p> gegeven.
