@@ -17,7 +17,7 @@ Jorinda Waitz
 
 #### Je startniveau:
 Mijn startniveau is: blauw
-In 2018/2019 heb ik een jaar de opleiding CMD gevolgd. Ik heb toen html, css en javascript geleerd, maar ik had daar heel veel moeite mee. Ook is alles na drie jaar een beetje weggezakt, dus ik moet mijn geheugen weer opfrissen. 
+In 2018/2019 heb ik een jaar de opleiding CMD gevolgd. Ik heb toen HTML, CSS en Javascript geleerd, maar ik had daar heel veel moeite mee. Ook is alles na drie jaar een beetje weggezakt, dus ik moet mijn geheugen weer opfrissen. 
 
 
 # Je plan
@@ -34,9 +34,9 @@ Mijn plan is om de verschillende Mickey’s door de jaren heen te laten zien. Ik
   
 Ik wil dus Mickey op chronologische volgorde laten zien en daarom leek het mij een goed begin om Steamboat Willie als eerst te laten zien en dat iconische beeld als achtergrond te gebruiken.
   
-Het idee is om alle Mickey’s op het stuurwiel af te beelden en het wiel te laten draaien. De Mickey die wordt aangewezen als het wiel is gedraaid, wordt vervangen door de Mickey die al staat afgebeeld. Ook veranderd de bijpassende informatie wat bij elke Mickey hoort. 
+Het idee is om alle Mickey’s op het stuurwiel af te beelden en het wiel te laten draaien. De Mickey die wordt aangewezen als het wiel is gedraaid, wordt vervangen door de Mickey die al staat afgebeeld. Ook verandert de bijpassende informatie dat bij elke Mickey hoort. 
 
-Dit idee is voor mij een uitdaging. Ik weet namelijk niet zo goed hoe ik dit moet gaan maken. Ik weet wel dat ik javascript nodig heb voor dit idee, maar daar moet ik mij dan eerst weer in gaan verdiepen.
+Dit idee is voor mij een uitdaging. Ik weet namelijk niet zo goed hoe ik dit moet gaan maken. Ik weet wel dat ik Javascript nodig heb voor dit idee, maar daar moet ik mij dan eerst weer in gaan verdiepen.
 
 
   ### Je ambitie: 
