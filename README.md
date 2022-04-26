@@ -221,15 +221,13 @@ Ik ben erg blij met het eindresultaat. Het komt aardig in de buurt van mijn oors
 
   ### Dit ging goed/Heb ik geleerd: 
 Ik heb geleerd hoe ik een animatie kan maken in CSS en die in Javascript kan laten oproepen. Ik had wel wat hulp nodig van anderen, maar op een gegeven moment had ik het zelf ook door en kon ik het ook op andere elementen toevoegen. 
-  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
-
+ 
 
   ### Dit was lastig/Is niet gelukt:
 Ik vond het lastig om “nette” code te schrijven. Ik heb mijn code heel vaak moeten aanpassen, omdat ik als feedback kreeg dat het makkelijker kon. Ik gaf bijvoorbeeld eerst alle Mickey’s een eigen ID, waardoor ik een hele lange lijst kreeg. Dit kon makkelijker en mooier door maar één mickey in HTML te zetten en met Javascript de src aan te passen. 
 Mijn originele plan was om Mickey’s of jaartallen op het stuurwiel te plaatsen. Toen ik eenmaal begon met de code, kwam ik erachter dat ik het al lastig vond om alleen het stuurwiel te laten draaien. Om nog jaartallen op het stuurwiel toe te voegen was voor mij echt te ingewikkeld. Als ik meer tijd had gehad, zou ik dat misschien nog hebben geprobeerd. Ik had dus besloten om niks op het stuur te plaatsen, maar het leek mij wel leuk als het stuur een beetje te draaien, zodat het in perspectief zou staan. Dit is mij alleen niet gelukt. 
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  <img src="readme-images/StuurwielRotate.png" width="375px" alt="Mislukte poging">
 </details>
 
 
