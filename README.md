@@ -78,13 +78,13 @@ Ik wil deze feedback gaan toepassen in mijn nieuwe ontwerp.
   ### Bevinding 3:
 Voor meer interactie kan ik de staart van Mickey laten bewegen.
   
-    #### oplossing:
+  #### oplossing:
 Ik ga gebruik maken van afbeeldingen van Mickey, de staart kan ik dus niet los bewegen. Ik wil in plaats van de staart de hele afbeelding laten bewegen.
   
   ### Bevinding 4:
 De informatie tekst kan op een leukere manier worden weergegeven.
   
-    #### oplossing:
+  #### oplossing:
 Ik heb Steamboat Willie gekeken om inspiratie op te doen. Ik zag daar een schatkist, wat mij op een idee bracht. Ik wil een schatkist open laten gaan en daar de informatie uit laten komen.
 
 </details>
