@@ -41,8 +41,11 @@ Dit idee is voor mij een uitdaging. Ik weet namelijk niet zo goed hoe ik dit moe
 
   ### Je ambitie: 
   Aan deze technieken/punten wil ik werken:
+  
  -Ik wil de basis van HTML, CSS en Javascript weer begrijpen.
+  
 -Ik wil mijn ideeën kunnen realiseren, of zo dicht mogelijk tot het originele idee komen.
+  
 -Ik wil leren om een afbeelding/object te animeren.
 
  
