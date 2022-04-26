@@ -216,16 +216,18 @@ True/false functie toegevoegd als mickey klaar is met draaien. Als de wiel niet 
 
   ### Je uitkomst - karakteristiek screenshot(s):
   <img src="readme-images/Website.DEF.png" width="375px" alt="final ontwerp">
-
+  
+Ik ben erg blij met het eindresultaat. Het komt aardig in de buurt van mijn oorspronkelijke idee, wat ik eerlijk gezegd niet had verwacht. 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatje(s)
-
+Ik heb geleerd hoe ik een animatie kan maken in CSS en die in Javascript kan laten oproepen. Ik had wel wat hulp nodig van anderen, maar op een gegeven moment had ik het zelf ook door en kon ik het ook op andere elementen toevoegen. 
+  
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatje(s)
+Ik vond het lastig om “nette” code te schrijven. Ik heb mijn code heel vaak moeten aanpassen, omdat ik als feedback kreeg dat het makkelijker kon. Ik gaf bijvoorbeeld eerst alle Mickey’s een eigen ID, waardoor ik een hele lange lijst kreeg. Dit kon makkelijker en mooier door maar één mickey in HTML te zetten en met Javascript de src aan te passen. 
+Mijn originele plan was om Mickey’s of jaartallen op het stuurwiel te plaatsen. Toen ik eenmaal begon met de code, kwam ik erachter dat ik het al lastig vond om alleen het stuurwiel te laten draaien. Om nog jaartallen op het stuurwiel toe te voegen was voor mij echt te ingewikkeld. Als ik meer tijd had gehad, zou ik dat misschien nog hebben geprobeerd. Ik had dus besloten om niks op het stuur te plaatsen, maar het leek mij wel leuk als het stuur een beetje te draaien, zodat het in perspectief zou staan. Dit is mij alleen niet gelukt. 
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 </details>
@@ -239,10 +241,10 @@ True/false functie toegevoegd als mickey klaar is met draaien. Als de wiel niet 
 <details open>
 <summary>continu bijhouden terwijl je werkt</summary>
 
-Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
-
-1. bron 1
-2. bron 2
-3. ...
+1. https://stackoverflow.com/questions/24386354/execute-js-code-after-pressing-the-spacebar
+2. https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ASteering_wheel_ship_1.png&psig=AOvVaw1EZP5vgyic29Kwz55C-s0E&ust=1650701788588000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPD238Cdp_cCFQAAAAAdAAAAABAD
+3. https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Ftag%2Fmickeymousecartoons&psig=AOvVaw2cjL73P3BsVPkSCmotIJhD&ust=1650713949040000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKDZp-bKp_cCFQAAAAAdAAAAABAJ
+4. https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D35uX9CbDtxc&psig=AOvVaw1S9oc9M_G-pnzg5eonoKFY&ust=1651050032925000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKiB1-yusfcCFQAAAAAdAAAAABAD
+5. https://www.deviantart.com/qbatgirlq/art/Infographic-Mickey-Mouse-through-the-years-766332123
 
 </details>
