@@ -26,7 +26,7 @@ In 2018/2019 heb ik een jaar de opleiding CMD gevolgd. Ik heb toen html, css en 
   <summary>De eerste versie/schets van je ontwerp & je persoonlijke uitdaging</summary>
 
   ### De eerste versie/schets:
-  <img src="readme-images/SchetsMickey.1.jpeg" width="600px" alt="eerste versie/schets">
+  <img src="readme-images/SchetsMickey.1.jpeg" width="595px" alt="eerste versie/schets">
   <img src="readme-images/SchetsStuurMickey.1.jpeg" width="290px" alt="eerste versie/schets">
   <img src="readme-images/SteamboatWillie.jpg" width="895px" alt="eerste versie/schets">
   
