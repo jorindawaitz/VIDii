@@ -95,26 +95,68 @@ Ik heb Steamboat Willie gekeken om inspiratie op te doen. Ik zag daar een schatk
 ## Voortgang/Feedback 2 (concept+code)
 
 <details>
-  <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
+  <summary>Mijn bevindingen + wijzigingen</summary>
   
   ### Bevinding 1:
-  Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
-
+De teksten hebben niet voldoende contrast.
+  
   #### oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
-
+Ik heb de achtergrond kleur van het informatie vak veranderd en niet meer transparant gemaakt. Nu is de tekst goed leesbaar.
 
 
   ### Bevinding 2:
-  Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
-
+Het stuurwiel kan niet gedraaid worden met het toetsenbord (tab).
+  
   #### oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
-
+Ik heb met Javascript ervoor gezorgd dat je met spatie en enter het stuurwiel kan laten draaien. Tab werkt alleen niet, want mijn laptop selecteert dan de website link.
 
 
   ### Bevinding 3:
-  ...
+  Als je over het stuurwiel hovert, veranderd de muis niet.
+  
+  #### oplossing:
+  Ik heb aan de button een cursor:pointer toegevoegd.
+  
+  
+  ### Bevinding 4:
+  De headings kunnen beter gebruikt worden. “Click to spin the wheel” is nu een <p>, maar kan beter een <h2>
+  
+  #### oplossing:
+  Ik heb alle “titels” veranderd naar h1/2/3 en alleen de tekst een <p> gegeven.
+  
+  
+  ### Bevinding 5:
+  Er is geen gebruik gemaakt van een button.
+  
+  #### oplossing:
+  Ik heb de afbeelding in een button gezet.
+  
+  
+  ### Bevinding 6:
+  Meer witruimte in de code gebruiken.
+  
+  #### oplossing:
+  Ik heb gebruik gemaakt van meer enters gebruikt en duidelijker met commentaar aangegeven wat waar begint.
+  
+  
+  ### Bevinding 7:
+ Meer structuur aanbrengen in CSS.
+  
+  #### oplossing:
+  De volgorde van mijn HTML-code aanhouden voor mijn CSS.
+  
+  
+  ### Bevinding 8:
+  Veel gebruik gemaakt van ID’s, kan beter. Bijvoorbeeld: header p.
+  
+  #### oplossing:
+  Ik heb alle ID’s vervangen.
+  
+ 
+  #### Bevinding 9:
+  10.	CSS custom properties toevoegen.
+  
+  
 
 </details>
 
