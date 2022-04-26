@@ -54,35 +54,45 @@ Dit idee is voor mij een uitdaging. Ik weet namelijk niet zo goed hoe ik dit moe
 
 
 
-## Voortgang/Feedback 1
+## Voortgang/Feedback 1 (concept)
 
 <details>
   <summary>Mijn bevindingen + wijzigingen </summary>
 
    <img src="readme-images/SchetsMickey.1.jpeg" width="375px" alt="eerste versie/schets">
   
-  ### Bevinding 1: Het stuurwiel zie je nu via een zijaanzicht. Daardoor zie je de Mickey’s niet goed.
+  ### Bevinding 1: 
+  Het stuurwiel zie je nu via een zijaanzicht. Daardoor zie je de Mickey’s niet goed.
   
-  #### oplossing: Ik wil dit gaan oplossen door het stuurwiel van voor te laten afbeelden.
+  #### oplossing: 
+  Ik wil dit gaan oplossen door het stuurwiel van voor te laten afbeelden.
 
 
   ### Bevinding 2:
-  Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
-
+In plaats van gelijk alle Mickey’s te laten zien op het stuurwiel, kan ik ook de jaartallen laten zien. Hierdoor heb je meer progressive disclosure. 
+  
   #### oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
-
+Ik wil deze feedback gaan toepassen in mijn nieuwe ontwerp. 
 
 
   ### Bevinding 3:
-  ...
+Voor meer interactie kan ik de staart van Mickey laten bewegen.
+  
+    #### oplossing:
+Ik ga gebruik maken van afbeeldingen van Mickey, de staart kan ik dus niet los bewegen. Ik wil in plaats van de staart de hele afbeelding laten bewegen.
+  
+  ### Bevinding 4:
+De informatie tekst kan op een leukere manier worden weergegeven.
+  
+    #### oplossing:
+Ik heb Steamboat Willie gekeken om inspiratie op te doen. Ik zag daar een schatkist, wat mij op een idee bracht. Ik wil een schatkist open laten gaan en daar de informatie uit laten komen.
 
 </details>
 
 
 
 
-## Voortgang/Feedback 2
+## Voortgang/Feedback 2 (concept+code)
 
 <details>
   <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
@@ -110,7 +120,7 @@ Dit idee is voor mij een uitdaging. Ik weet namelijk niet zo goed hoe ik dit moe
 
 
 
-## Voortgang/Feedback 3
+## Voortgang/Feedback 3 (concept+code)
 
 <details>
   <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
