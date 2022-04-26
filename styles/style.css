@@ -9,9 +9,9 @@
 }
 
 :root {
---h1Kleur: crimson;
+--h1Kleur: rgb(255, 255, 255);
 --h2Kleur: rgb(255, 255, 255);
---h3Kleur: rgb(255, 255, 255);
+--h3Kleur: rgb(36, 26, 13);
 --pKleur: black; 
 --mickeyGeel: rgb(249,215,11);
 --mickeyRood: rgb(242,5,5);
@@ -39,7 +39,7 @@ body {
 
 /* Mickeymouse Through the years */
 h1 {
-  color:rgb(255, 255, 255);
+  color: var(--h1Kleur);
   /* padding-top: 2em;
   padding-left: 2em; */
   position: absolute;
@@ -54,7 +54,7 @@ h1 {
 
 /* Click to spin the wheel */
 h2 {
-  color:rgb(255, 255, 255);
+  color:var(--h2Kleur);
   position: absolute;
   top: 4.2em;
   left: 29em;
@@ -64,7 +64,7 @@ h2 {
 
 /* MickeyTitel */
 h3 {
-  color:rgb(36, 26, 13);
+  color:var(--h3Kleur);
   font-family: DisneyFont, fantasy; 
   font-size: 22px;
 }
