@@ -97,7 +97,7 @@ Ik heb Steamboat Willie gekeken om inspiratie op te doen. Ik zag daar een schatk
 <details>
   <summary>Mijn bevindingen + wijzigingen</summary>
   
-  <img src="readme-images/Website.v2.png" width="375px" alt="eerste versie/schets">
+  <img src="readme-images/Website.v2.png" width="375px" alt="Tweede versie/schets">
   
   ### Bevinding 1:
 De teksten hebben niet voldoende contrast.
@@ -169,7 +169,7 @@ Ik heb met Javascript ervoor gezorgd dat je met spatie en enter het stuurwiel ka
 <details>
   <summary>Mijn bevindingen + wijzigingen</summary>
   
-    <img src="readme-images/Website.v2.png" width="375px" alt="eerste versie/schets">
+<img src="readme-images/Website.v2.png" width="375px" alt="Tweede versie/schets">
   
   ### Bevinding 1:
 Het informatievlak ziet er een beetje saai uit.
